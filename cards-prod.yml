@@ -2,7 +2,7 @@ build:
   info: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to shaankubank cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
