@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to shaanku accounts related prod APIs "
+  message: "Welcome to shaanku accounts related prod APIs with webhooks"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}c8a83e995b29deff1653b82b46e8c369de0fae9a342514debed4711710f3bd763fbd10869438e0fc1f5492ad9aec3aec"
