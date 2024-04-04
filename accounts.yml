@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to ShaankuBank accounts related local APIs - Webhooks "
+  message: "Welcome to ShaankuBank accounts related local APIs - Webhooks - edited"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
